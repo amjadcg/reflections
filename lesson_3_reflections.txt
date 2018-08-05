@@ -23,3 +23,11 @@ branches allow to make versioning.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 to see every one changes on that file
+
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+of course it's a better way
