@@ -17,3 +17,9 @@ forks make a copy of someone repos on only github.
 clone make a copy of someone repos on your local machine.
 branches allow to make versioning.
 
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+to see every one changes on that file
